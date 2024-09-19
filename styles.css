@@ -251,7 +251,6 @@ p {
         height: 100px;
         object-fit: cover;
         object-position: top;
-        margin-bottom: -29px;
     }
     .wrapper__audience-growth {
         grid-column: 2 / 3;
